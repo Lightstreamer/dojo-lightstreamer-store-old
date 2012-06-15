@@ -3,7 +3,7 @@
  "description": "A Dojo Object Store implementation for integration between Lightstreamer HTML Client API 5 (part of Lightstreamer 4 Duomo) and Dojo Toolkit 1.7 or higher",
  "licenses": [
     {
-        "type": "BSD"
+        "type": "New BSD"
     }
  ],
  "keywords": ["Lightstreamer","LightstreamerDuomo","Comet","Streaming","Data Push"],
